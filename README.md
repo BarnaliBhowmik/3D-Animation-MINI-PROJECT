@@ -45,6 +45,7 @@ Ensure you have the following installed:
 
 2. Open the index.html file in your browser to see the animation in action.
 
+---
 
 📂 PROJECT-STRUCTURE :-
 3D-scrolling-animation/
@@ -54,13 +55,14 @@ Ensure you have the following installed:
 ├── assets/          # Assets folder (images, fonts, etc.)
 └── README.md        # Project documentation
 
-
+---
 
 🌟 Usage
 Open the project in your browser.
 Scroll up and down to interact with the animation.
 Watch the character move and change expressions dynamically!
 
+---
 
 🔧 Customization
 You can tweak the animation or add new features:
@@ -68,6 +70,8 @@ You can tweak the animation or add new features:
 Modify the character's design or expressions.
 Experiment with canvas settings for unique effects.
 Add additional animations or interactivity.
+
+---
 
 ❤️ Acknowledgments
 Inspired by creative web animation techniques.
