@@ -47,7 +47,7 @@ Ensure you have the following installed:
 
 ---
 
-📂 PROJECT-STRUCTURE :-
+## 📂 PROJECT-STRUCTURE :-
 
 3D-scrolling-animation/
 ├── index.html       # Main HTML file
@@ -58,14 +58,14 @@ Ensure you have the following installed:
 
 ---
 
-🌟 USAGE
+## 🌟 USAGE
 Open the project in your browser.
 Scroll up and down to interact with the animation.
 Watch the character move and change expressions dynamically!
 
 ---
 
-🔧 CUSTOMIZATION
+## 🔧 CUSTOMIZATION
 You can tweak the animation or add new features:
 
 Modify the character's design or expressions.
@@ -74,6 +74,6 @@ Add additional animations or interactivity.
 
 ---
 
-❤️ ACKNOWLEDGMENTS
+## ❤️ ACKNOWLEDGMENTS
 Inspired by creative web animation techniques.
 Special thanks to the Sheryians Coding School for their excellent tutorials on scrolling animations.
